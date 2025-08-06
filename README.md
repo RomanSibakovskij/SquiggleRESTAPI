@@ -1,4 +1,4 @@
-# SquiggleAPI
+# SquiggleRESTAPI
 
 ## API Documentation
 
